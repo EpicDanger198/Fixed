@@ -6,7 +6,7 @@ module.exports = {
         name: "admin",
         aliases: ["ad"],
         version: "0",
-        author: "︎AHMED TARIF",
+        author: "︎Ntkhang",
         countDown: 5,
         role: 0,
         shortDescription: "Add, remove or see the admin list for this bot",
@@ -21,11 +21,11 @@ module.exports = {
 
     langs: {
         en: {
-            listAdmin: "👑 | 𝙱𝙾𝚃 𝙰𝙳𝙼𝙸𝙽𝚂 & 𝙾𝙿𝙴𝚁𝙰𝚃𝙾𝚁𝚂 | 👑"
+            listAdmin: "👑 | 𝐁𝐨𝐭 𝐀𝐝𝐦𝐢𝐧𝐬 & 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 | 👑"
                 + "\n ___________________"
-                + "\n♕︎| 𝙾𝚆𝙽𝙴𝚁\n____________\n ⌬| ︎Nisan Hossein Editz",
-                +"\n╰=> 61576178781718",
-                   "⌬| ︎Sk Nisan Hossein"
+                + "\n♕︎| 	𝐎𝐖𝐍𝐄𝐑\n____________\n ⌬| ︎Nisan Hossein Editz"
+                +"\n╰=> 61576178781718"\n
+                "⌬| ︎Sk Nisan Hossein"
                 +"\n╰=> 100080682514874"
                 + "\n _____________________________"
                 + "\n♲︎︎︎| 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬"
